@@ -83,6 +83,8 @@ by reading from input the number of people attending, the average number of slic
 		weekendTotal += total;
 
 		System.out.printf("\nWeekend Total: $%.2f\n", weekendTotal);
+		
+		System.out.println("\nEnjoy your pizza parties!");
 	}
 
 }
